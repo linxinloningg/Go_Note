@@ -8,70 +8,70 @@
 
   * #### 语言结构
 
-    * [1_helloworld]()
+    * [1_helloworld](https://github.com/linxinloningg/Go_Note/blob/main/1_helloworld.go)
 
   * #### 包导入
 
-    * [2_import]()
-    * [Go 语言主函数和主包]()
+    * [2_import](https://github.com/linxinloningg/Go_Note/blob/main/2_import.go)
+    * [Go 语言主函数和主包](https://github.com/linxinloningg/Go_Note/blob/main/%E6%96%87%E6%A1%A3/Go%20%E8%AF%AD%E8%A8%80%E4%B8%BB%E5%87%BD%E6%95%B0%E5%92%8C%E4%B8%BB%E5%8C%85.md)
 
   * #### 数据类型
 
-    * [3_basictype]()
-    * [Go 语言数据类型及定义]()
+    * [3_basictype](https://github.com/linxinloningg/Go_Note/blob/main/3_basictype.go)
+    * [Go 语言数据类型及定义](https://github.com/linxinloningg/Go_Note/blob/main/%E6%96%87%E6%A1%A3/Go%20%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E5%AE%9A%E4%B9%89.md)
 
   * #### 快速多重定义
 
-    * [4_mult_var]()
+    * [4_mult_var](https://github.com/linxinloningg/Go_Note/blob/main/4_mult_var.go)
 
   * #### 类型转变
 
-    * [5_type_con]()
+    * 5[_type_con](https://github.com/linxinloningg/Go_Note/blob/main/5_type_con.go)
 
   * #### 常量
 
-    * [6_constant]()
+    * [6_constant](https://github.com/linxinloningg/Go_Note/blob/main/6_constant.go)
 
   * #### for循环
 
-    * [7_for]()
+    * [7_for](https://github.com/linxinloningg/Go_Note/blob/main/7_for.go)
 
   * #### 函数
 
-    * [8_func]()
+    * [8_func](https://github.com/linxinloningg/Go_Note/blob/main/8_func.go)
 
   * #### 数组
 
-    * [9_array]()
+    * [9_array](https://github.com/linxinloningg/Go_Note/blob/main/9_array.go)
 
   * #### 切片
 
-    * [10_selection]()
+    * [10_selection](https://github.com/linxinloningg/Go_Note/blob/main/10_selection.go)
 
   * #### 指针
 
-    * [11_pointer]()
+    * [11_pointer](https://github.com/linxinloningg/Go_Note/blob/main/11_pointer.go)
 
   * #### 结构体
 
-    * [12_structural]()
+    * [12_structural](https://github.com/linxinloningg/Go_Note/blob/main/12_structural.go)
 
   * #### rang迭代
 
-    * [13_range]()
+    * [13_range](https://github.com/linxinloningg/Go_Note/blob/main/13_range.go)
 
   * #### map集合
 
-    * [14_map]()
+    * [14_map](https://github.com/linxinloningg/Go_Note/blob/main/14_map.go)
 
   * #### 递归
 
-    * [15_recursion]()
+    * [15_recursion](https://github.com/linxinloningg/Go_Note/blob/main/15_recursion.go)
 
   * #### 数据接口
 
-    * [16_interface]()
-    * [Go 语言接口]()
+    * [16_interface](https://github.com/linxinloningg/Go_Note/blob/main/16_interface.go)
+    * [Go 语言接口](https://github.com/linxinloningg/Go_Note/blob/main/%E6%96%87%E6%A1%A3/Go%20%E8%AF%AD%E8%A8%80%E6%8E%A5%E5%8F%A3.md)
 
 * ### [标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example/blob/master/directory.md)
 
