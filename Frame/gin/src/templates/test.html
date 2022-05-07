@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML模板(Template)</title>
+</head>
+<body>
+<p>hello, {{.title}}</p>
+{{range $index, $ele := .stuArr }}
+    <p>{{ $index }}: {{ $ele.Name }} is {{ $ele.Age }} years old</p>
+{{ end }}
+</body>
+</html>

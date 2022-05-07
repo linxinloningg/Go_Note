@@ -1,0 +1,13 @@
+Python 的 Flask框架，有 debug 模式，启动时传入 debug=True 就可以热加载(Hot Reload, Live Reload)了。
+即更改源码，保存后，自动触发更新，浏览器上刷新即可。免去了杀进程、重新启动之苦。
+
+Gin 原生不支持，但有很多额外的库可以支持。例如
+
+    github.com/codegangsta/gin
+    github.com/pilu/fresh
+
+这次，我们采用 github.com/pilu/fresh 。
+
+go get -v -u github.com/pilu/fresh
+
+安装好后，只需要将go run main.go命令换成fresh即可。每次更改源文件，代码将自动重新编译(Auto Compile)。
