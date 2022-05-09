@@ -16,7 +16,7 @@
 go env -w KEY=VALUE
 ```
 
-* GO111MODULE=auto
+* GO111MODULE=on
 * GOPROXY=https://goproxy.cn,direct
 
 ```bash
