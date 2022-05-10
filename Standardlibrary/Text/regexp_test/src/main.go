@@ -1,7 +1,9 @@
 package main
 
-import "regexp_test/src/Basic_knowledge"
+import (
+	"regexp_test/src/Advanced"
+)
 
-func main()  {
-	Basic_knowledge.Alternatives()
+func main() {
+	Advanced.Flags()
 }
